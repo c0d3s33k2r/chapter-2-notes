@@ -39,3 +39,15 @@ while (D > -51) {
 
     D--;
 }
+
+//5
+let E = -10;
+while (E <= 10) {
+    if (E >= -10) {
+        console.log(E);
+    }
+
+    E++;
+}
+
+
